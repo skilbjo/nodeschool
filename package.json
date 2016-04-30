@@ -1,0 +1,31 @@
+{
+  "name": "nodeschool",
+  "main": "blah.js",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skilbjo/nodeschool.git"
+  },
+  "engines": {
+    "node": "5.10.0"
+  },
+  "dependencies": {
+    "functional-javascript-workshop": "latest",
+    "promise-it-wont-hurt": "latest",
+    "async-you": "latest",
+    "goingnative": "latest",
+    "esnext-generation": "latest",
+    "tower-of-babel": "latest",
+    "currying-workshopper": "latest",
+    "count-to-6": "latest"
+
+  },
+  "devDependencies": {
+    "nodemon": "1.2.1" 
+  },
+  "jshintConfig": {
+    "laxcomma": true
+    , "indent": 1
+  }
+}
