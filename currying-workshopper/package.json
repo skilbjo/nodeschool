@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "currying-workshopper@latest",
+      "/Users/skilbjo/Code/Node/nodeschool"
+    ]
+  ],
+  "_from": "currying-workshopper@latest",
+  "_id": "currying-workshopper@1.0.10",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/currying-workshopper",
+  "_nodeVersion": "4.2.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/currying-workshopper-1.0.10.tgz_1457433933411_0.5477459621615708"
+  },
+  "_npmUser": {
+    "email": "kishorsharma7@gmail.com",
+    "name": "kishorsharma"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "currying-workshopper",
+    "raw": "currying-workshopper@latest",
+    "rawSpec": "latest",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/currying-workshopper/-/currying-workshopper-1.0.10.tgz",
+  "_shasum": "fdb6e0edfed32429b050d983707b98247421c842",
+  "_shrinkwrap": null,
+  "_spec": "currying-workshopper@latest",
+  "_where": "/Users/skilbjo/Code/Node/nodeschool",
+  "author": {
+    "email": "brijkishor.cse@gmail.com",
+    "name": "Brij Kishor",
+    "url": "https://github.com/kishorsharma"
+  },
+  "bin": {
+    "curry": "./currying-workshopper.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kishorsharma/currying-workshopper/issues"
+  },
+  "dependencies": {
+    "path": "^0.11.14",
+    "workshopper": "^2.7.0",
+    "workshopper-exercise": "^2.4.0"
+  },
+  "description": "Learn how to write a curry function in java and use it.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fdb6e0edfed32429b050d983707b98247421c842",
+    "tarball": "https://registry.npmjs.org/currying-workshopper/-/currying-workshopper-1.0.10.tgz"
+  },
+  "gitHead": "b6c38bf23b2396d3ece51d7cb9276c5845bccab6",
+  "homepage": "https://github.com/kishorsharma/currying-workshopper#readme",
+  "license": "MIT",
+  "main": "./currying-workshopper.js",
+  "maintainers": [
+    {
+      "email": "kishorsharma7@gmail.com",
+      "name": "kishorsharma"
+    }
+  ],
+  "name": "currying-workshopper",
+  "optionalDependencies": {},
+  "preferGlobal": true,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kishorsharma/currying-workshopper.git"
+  },
+  "scripts": {},
+  "title": "Currying in JavaScript",
+  "version": "1.0.10"
+}

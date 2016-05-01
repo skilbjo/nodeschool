@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      "esnext-generation@latest",
+      "/Users/skilbjo/Code/Node/nodeschool"
+    ]
+  ],
+  "_from": "esnext-generation@latest",
+  "_id": "esnext-generation@2.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/esnext-generation",
+  "_nodeVersion": "5.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/esnext-generation-2.1.1.tgz_1457927015995_0.2298940122127533"
+  },
+  "_npmUser": {
+    "email": "jess+npmjs@jes.st",
+    "name": "jesstelford"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "esnext-generation",
+    "raw": "esnext-generation@latest",
+    "rawSpec": "latest",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/esnext-generation/-/esnext-generation-2.1.1.tgz",
+  "_shasum": "e778b599e6771a14374de5313dfe31b17b7b33bd",
+  "_shrinkwrap": null,
+  "_spec": "esnext-generation@latest",
+  "_where": "/Users/skilbjo/Code/Node/nodeschool",
+  "author": {
+    "email": "hi@jes.st",
+    "name": "Jess Telford",
+    "url": "http://jes.st"
+  },
+  "bin": {
+    "esnext-generation": "cli.js",
+    "esng": "cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jesstelford/esnext-generation/issues"
+  },
+  "dependencies": {
+    "adventure": "^2.10.0",
+    "adventure-verify": "^2.2.0",
+    "msee": "^0.1.1"
+  },
+  "description": "Javascript: The final frontier. In this journey, we will explore the strange new worlds of ES6 Iterators and Generators. We will seek out new ways to loop; new iterations. We will boldly code what no one has coded before!",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e778b599e6771a14374de5313dfe31b17b7b33bd",
+    "tarball": "https://registry.npmjs.org/esnext-generation/-/esnext-generation-2.1.1.tgz"
+  },
+  "engineStrict": true,
+  "engines": {
+    "iojs": "*",
+    "node": ">= 0.11.15"
+  },
+  "gitHead": "f538dff0f36b4d8b8f8d02b333bcd0c5419afa16",
+  "homepage": "https://github.com/jesstelford/esnext-generation#readme",
+  "keywords": [
+    "generators",
+    "iterators",
+    "nodeschool",
+    "workshopper"
+  ],
+  "license": "MIT",
+  "main": "runner.js",
+  "maintainers": [
+    {
+      "email": "jess+npmjs@jes.st",
+      "name": "jesstelford"
+    }
+  ],
+  "name": "esnext-generation",
+  "optionalDependencies": {},
+  "preferGlobal": true,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesstelford/esnext-generation.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.1"
+}

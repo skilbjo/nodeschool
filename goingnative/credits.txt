@@ -1,0 +1,9 @@
+{yellow}{bold}goingnative is brought to you by the following dedicated hackers:{/bold}{/yellow}
+
+{bold}Name                GitHub Username{/bold}
+-----------------------------------
+Rod Vagg            @rvagg
+Will Blankenship    @wblankenship
+Benjamin Byholm     @kkoopa
+Trevor Norris       @trevnorris
+Adam Brady          @SomeoneWeird

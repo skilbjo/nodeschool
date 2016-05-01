@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      "count-to-6@latest",
+      "/Users/skilbjo/Code/Node/nodeschool"
+    ]
+  ],
+  "_from": "count-to-6@latest",
+  "_id": "count-to-6@0.7.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/count-to-6",
+  "_nodeVersion": "5.7.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/count-to-6-0.7.1.tgz_1457289274618_0.2711324372794479"
+  },
+  "_npmUser": {
+    "email": "d@domenic.me",
+    "name": "domenic"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "count-to-6",
+    "raw": "count-to-6@latest",
+    "rawSpec": "latest",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/count-to-6/-/count-to-6-0.7.1.tgz",
+  "_shasum": "4c64a379df8115c9c38640ac876a26a21c584b3b",
+  "_shrinkwrap": null,
+  "_spec": "count-to-6@latest",
+  "_where": "/Users/skilbjo/Code/Node/nodeschool",
+  "author": {
+    "email": "d@domenic.me",
+    "name": "Domenic Denicola",
+    "url": "https://domenic.me/"
+  },
+  "bin": {
+    "count-to-6": "./lib/count-to-6.js"
+  },
+  "bugs": {
+    "url": "https://github.com/domenic/count-to-6/issues"
+  },
+  "dependencies": {
+    "q": "^1.1.2",
+    "rimraf": "^2.2.8",
+    "traceur": "0.0.84",
+    "workshopper": "^2.3.1",
+    "workshopper-exercise": "^2.3.0"
+  },
+  "description": "An intro to some ES6 features via a set of self-guided workshops.",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "4c64a379df8115c9c38640ac876a26a21c584b3b",
+    "tarball": "https://registry.npmjs.org/count-to-6/-/count-to-6-0.7.1.tgz"
+  },
+  "files": [
+    "lib/"
+  ],
+  "gitHead": "0946daf7531b3c501b8213832451a6d181a38ce2",
+  "homepage": "https://github.com/domenic/count-to-6#readme",
+  "keywords": [
+    "es6",
+    "workshopper",
+    "nodeschool"
+  ],
+  "license": "WTFPL",
+  "maintainers": [
+    {
+      "email": "domenic@domenicdenicola.com",
+      "name": "domenic"
+    }
+  ],
+  "name": "count-to-6",
+  "optionalDependencies": {},
+  "preferGlobal": true,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domenic/count-to-6.git"
+  },
+  "scripts": {
+    "lint": "jshint lib"
+  },
+  "version": "0.7.1"
+}

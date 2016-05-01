@@ -1,0 +1,124 @@
+{
+  "_args": [
+    [
+      "goingnative@latest",
+      "/Users/skilbjo/Code/Node/nodeschool"
+    ]
+  ],
+  "_from": "goingnative@latest",
+  "_id": "goingnative@2.0.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/goingnative",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "email": "rod@vagg.org",
+    "name": "rvagg"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {
+    "after": "0.8.1",
+    "ansi-regex": "2.0.0",
+    "charm": "0.1.2",
+    "core-util-is": "1.0.2",
+    "escape-string-regexp": "1.0.5",
+    "has-ansi": "2.0.0",
+    "has-color": "0.1.7",
+    "inherits": "2.0.1",
+    "isarray": "0.0.1",
+    "map-async": "0.1.1",
+    "msee": "0.1.2",
+    "object-keys": "0.4.0",
+    "optimist": "0.6.1",
+    "resumer": "0.0.0",
+    "string_decoder": "0.10.31",
+    "supports-color": "2.0.0",
+    "through": "2.3.8",
+    "tuple-stream": "0.0.2",
+    "visualwidth": "0.0.1",
+    "xtend": "3.0.0"
+  },
+  "_requested": {
+    "name": "goingnative",
+    "raw": "goingnative@latest",
+    "rawSpec": "latest",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/goingnative/-/goingnative-2.0.7.tgz",
+  "_shasum": "613d5d63a68b5710096b0673df180f061602cee2",
+  "_shrinkwrap": null,
+  "_spec": "goingnative@latest",
+  "_where": "/Users/skilbjo/Code/Node/nodeschool",
+  "author": {
+    "email": "rod@vagg.org",
+    "name": "Rod Vagg",
+    "url": "https://github.com/rvagg"
+  },
+  "bin": {
+    "goingnative": "./goingnative.js"
+  },
+  "bugs": {
+    "url": "https://github.com/rvagg/goingnative/issues"
+  },
+  "dependencies": {
+    "after": "~0.8.1",
+    "bindings": "~1.2.1",
+    "chalk": "~1.1.1",
+    "check-python": "~1.0.0",
+    "colors-tmpl": "~1.0.0",
+    "core-util-is": "~1.0.2",
+    "cpr": "~1.0.0",
+    "getos": "~2.6.1",
+    "js-yaml": "~3.5.2",
+    "map-async": "~0.1.1",
+    "mkdirp": "~0.5.0",
+    "nan": "~2.2.0",
+    "node-gyp": "~3.2.1",
+    "rimraf": "~2.5.0",
+    "semver": "~5.1.0",
+    "varstring": "~0.2.0",
+    "workshopper": "~1.4.1",
+    "workshopper-boilerplate": "~1.1.2",
+    "workshopper-exercise": "~1.1.0",
+    "workshopper-hooray": "~1.1.0",
+    "workshopper-more": "~1.0.1"
+  },
+  "description": "A NodeSchool style workshopper for learning how to write native Node.js addons",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "613d5d63a68b5710096b0673df180f061602cee2",
+    "tarball": "https://registry.npmjs.org/goingnative/-/goingnative-2.0.7.tgz"
+  },
+  "gitHead": "a0d42d2033e5de4beb8aae45949f9d93ff1c9993",
+  "homepage": "https://github.com/rvagg/goingnative#readme",
+  "license": "MIT",
+  "main": "goingnative.js",
+  "maintainers": [
+    {
+      "email": "julianduquej@gmail.com",
+      "name": "julianduque"
+    },
+    {
+      "email": "rod@vagg.org",
+      "name": "rvagg"
+    }
+  ],
+  "name": "goingnative",
+  "optionalDependencies": {},
+  "preferGlobal": true,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvagg/goingnative.git"
+  },
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "version": "2.0.7"
+}
